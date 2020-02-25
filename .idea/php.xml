@@ -4,7 +4,42 @@
     <include_path>
       <path value="C:/php_7.3" />
       <path value="C:/php/pear" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/myproject/vendor/composer" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/myproject/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/myproject/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/myproject/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/web-server-bundle" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/myproject/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/myproject/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/myproject/vendor/sensio/framework-extra-bundle" />
     </include_path>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
 </project>
