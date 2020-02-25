@@ -1,0 +1,25 @@
+{# Mon commentaire #}
+{% extends 'base.html.twig'%}
+
+
+{% block title %}
+lire: {{ titre }}
+{% endblock %}
+{# ==============BODY=================== #}
+
+
+{% block body %}
+
+<h1>TEST</h1>
+{{ titre }}
+{% for comment in comments  %}
+    <p>{{comment}}</p>
+{% endfor %}
+
+<p>Il y a {{ comments|length }} commentaires</p>
+
+commentaires.{{ maVariable }}
+{# 'maVariable'= est déclaré dans ArticleController => 'TEST' #}
+
+{% endblock %}
+{# ==============BODY=================== #}
