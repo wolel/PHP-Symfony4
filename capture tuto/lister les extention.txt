@@ -1,0 +1,1 @@
+liste les extetion qui sont dispo dans php.ini
