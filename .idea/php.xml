@@ -46,6 +46,29 @@
       <path value="$PROJECT_DIR$/myproject/vendor/symfony/twig-pack" />
       <path value="$PROJECT_DIR$/myproject/vendor/symfony/translation-contracts" />
       <path value="$PROJECT_DIR$/myproject/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/myproject/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/orm-pack" />
+      <path value="$PROJECT_DIR$/myproject/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/myproject/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/myproject/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/myproject/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/myproject/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/myproject/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/myproject/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/myproject/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/myproject/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/myproject/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/myproject/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/myproject/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/myproject/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/myproject/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/myproject/vendor/zendframework/zend-eventmanager" />
+      <path value="$PROJECT_DIR$/myproject/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/myproject/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/myproject/vendor/doctrine/cache" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />

@@ -8,7 +8,24 @@
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/doctrine/doctrine-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/doctrine/doctrine-migrations-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/doctrine/instantiator" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/doctrine/migrations" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/doctrine/reflection" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/jdorn/sql-formatter" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/ocramius/package-versions" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/ocramius/proxy-manager" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/psr/cache" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/psr/container" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/psr/log" />
@@ -20,6 +37,7 @@
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/console" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/debug" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/doctrine-bridge" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/dotenv" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/error-handler" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/event-dispatcher" />
@@ -30,7 +48,9 @@
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/framework-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/http-foundation" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/maker-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/orm-pack" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/polyfill-intl-idn" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/polyfill-mbstring" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/polyfill-php72" />
@@ -38,6 +58,7 @@
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/process" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/routing" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/stopwatch" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/translation-contracts" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/twig-bridge" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/twig-bundle" />
@@ -48,6 +69,8 @@
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/yaml" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/twig/extra-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/zendframework/zend-code" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/zendframework/zend-eventmanager" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

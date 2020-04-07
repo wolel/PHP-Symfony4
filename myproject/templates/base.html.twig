@@ -7,10 +7,13 @@
         {% block stylesheets %}{% endblock %}
     </head>
     <body>
+
         <nav>
-            <a href="{{ path('app_article_homepage') }}">Home</a>
-            <a href="/articles/Upto">Upto</a>
+            <a href="{{ path('app_homepage') }}">Home</a>
+            <a href="{{ path('article_show',{titre:'Repas pour bébé'}) }}">Repas BEBE</a>
+            <a href="{{ path('article_show',{titre:'jeux pour bébé'}) }}">Jeux BEBE</a>
         </nav>
+
         {% block body %}
         Elena
         {% endblock %}

@@ -10,16 +10,22 @@ lire: {{ titre }}
 
 {% block body %}
 
-<h1>TEST</h1>
-{{ titre }}
-{% for comment in comments  %}
+    <h1>{{ titre }}</h1>
+    <p>{{ Contenu }}</p>
+
+
+    {% for comment in comments  %}
     <p>{{comment}}</p>
+
 {% endfor %}
 
 <p>Il y a {{ comments|length }} commentaires</p>
 
-commentaires.{{ maVariable }}
+
 {# 'maVariable'= est déclaré dans ArticleController => 'TEST' #}
 
 {% endblock %}
-{# ==============BODY=================== #}
+{# ================================ #}
+{% block javascript %}
+<script src=""main.js></script>
+{% endblock %}

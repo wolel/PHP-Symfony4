@@ -8,3 +8,19 @@ p{
     width: 30%;
 
 }
+h1{
+    color: white;
+    font-family: "Open Sans", serif;
+    font-size: 15px;/* le texte est décalé d 15px*/
+    text-indent: 15px;
+    background-color: yellow;
+    padding: 20px;
+    width: 30%;
+    margin-top: 100px;
+}
+a{
+    color: #222222;
+    font-size: 25px;
+    margin-left: 20px;
+    font-family: "DK Lemon Yellow Sun", serif;
+}
