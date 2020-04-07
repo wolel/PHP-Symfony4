@@ -45,6 +45,7 @@
       <path value="$PROJECT_DIR$/myproject/vendor/symfony/twig-bundle" />
       <path value="$PROJECT_DIR$/myproject/vendor/symfony/twig-pack" />
       <path value="$PROJECT_DIR$/myproject/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/myproject/vendor/symfony/asset" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />

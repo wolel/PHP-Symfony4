@@ -13,6 +13,7 @@
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/psr/container" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/psr/log" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/sensio/framework-extra-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/asset" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/cache" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/cache-contracts" />
       <excludeFolder url="file://$MODULE_DIR$/myproject/vendor/symfony/config" />
