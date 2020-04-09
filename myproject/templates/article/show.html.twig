@@ -5,17 +5,17 @@
 {% block title %}
 lire: {{ titre }}
 {% endblock %}
+
+
 {# ==============BODY=================== #}
 
 
 {% block body %}
 
-    <h1>{{ titre }}</h1>
-    <p>{{ Contenu }}</p>
-
 
     {% for comment in comments  %}
     <p>{{comment}}</p>
+
 
 {% endfor %}
 
@@ -25,7 +25,10 @@ lire: {{ titre }}
 {# 'maVariable'= est déclaré dans ArticleController => 'TEST' #}
 
 {% endblock %}
+
+
+
 {# ================================ #}
-{% block javascript %}
-<script src=""main.js></script>
+{% block javascripts %}
+    <script src="main.js"></script>
 {% endblock %}

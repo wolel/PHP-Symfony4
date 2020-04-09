@@ -29,7 +29,8 @@ class ArticleController extends AbstractController{
                 //chemin vers un fichier tamplet 'twig'
                 //new Response("Mon article ayant pour titre".' '.$titre.' '."s'affiche");
         $comments = ['comm 1', 'comm 2', 'comm 3','comm 4'];
-        return $this->render('article/show.html.twig',[
+        return $this->render('article/show.html.twig',
+            [
             "titre"=>$titre,
             "maVariable"=>"TEST",
             "comments"=>$comments
@@ -70,4 +71,12 @@ class ArticleController extends AbstractController{
 
     }
 
+    /**
+     * @Route("/contact", name="contact_info")
+     */
+
+    public function contact(){
+
+        return $this->render('contact/contact.html.twig');
+    }
     }
